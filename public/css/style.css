@@ -115,6 +115,8 @@ h1 {
 .header-btn-text:hover {
     text-decoration: none !important;
     color: #fff;
+    font-family: serif;
+    text-transform: capitalize;
 }
 
 

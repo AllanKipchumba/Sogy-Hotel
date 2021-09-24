@@ -51,7 +51,7 @@ function BookRoom() {
                             </Form.Group>
                         </Row>
 
-                        <Col column xs={6}>
+                        <Col column sm={6} md={3}>
                                 <Button 
                                 className="bookroom-btn"
                                 column md={6}

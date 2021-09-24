@@ -67,7 +67,7 @@ function Footer() {
                         </center> 
                         <Col className="contact">
                             <p><EmailIcon className="footer-icon"/> kipchumbaallan42@gmail.com</p>
-                            <p><PhoneIcon className="footer-icon"/><a href="tel:+254 722 222 444"> +254 722 222 444</a></p>
+                            <p><PhoneIcon className="footer-icon"/><a href="tel:+254 722 419 582"> +254 722 419 582</a></p>
                         </Col>
                         <Col className="developer-socials">
                             <a href="#"><FacebookIcon/></a>
